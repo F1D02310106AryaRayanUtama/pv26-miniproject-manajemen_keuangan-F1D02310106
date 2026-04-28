@@ -1,0 +1,188 @@
+/* =========================
+   GLOBAL
+========================= */
+QWidget {
+    font-family: Segoe UI, Arial, sans-serif;
+    font-size: 13px;
+    color: #2c3e50;
+}
+
+/* =========================
+   MAIN WINDOW
+========================= */
+QMainWindow {
+    background-color: #f5f6fa;
+}
+
+/* =========================
+   LABEL
+========================= */
+QLabel {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1f2d3d;
+}
+
+/* Label khusus form */
+QFormLayout QLabel {
+    color: #34495e;
+    font-weight: bold;
+    min-width: 90px;
+}
+
+/* =========================
+   BUTTON
+========================= */
+QPushButton {
+    background-color: #3498db;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #2980b9;
+}
+
+QPushButton:pressed {
+    background-color: #2471a3;
+}
+
+/* =========================
+   TABLE
+========================= */
+QTableWidget {
+    background-color: white;
+    color: #2c3e50;
+    gridline-color: #dcdde1;
+    border: none;
+}
+
+QTableWidget::item:selected {
+    background-color: #d6eaf8;
+    color: #2c3e50;
+}
+
+/* Header tabel */
+QHeaderView::section {
+    background-color: #3498db;
+    color: white;
+    padding: 6px;
+    border: none;
+    font-weight: bold;
+}
+
+/* =========================
+   MENU
+========================= */
+QMenuBar {
+    background-color: #ffffff;
+    color: #2c3e50;
+}
+
+QMenuBar::item:selected {
+    background-color: #dfe6e9;
+}
+
+QMenu {
+    background-color: white;
+    color: #2c3e50;
+}
+
+QMenu::item:selected {
+    background-color: #dfe6e9;
+}
+
+/* =========================
+   DIALOG
+========================= */
+QDialog {
+    background-color: #f5f6fa;
+}
+
+/* =========================
+   FORM INPUT
+========================= */
+QLineEdit, QTextEdit, QComboBox, QDateEdit {
+    background-color: #ffffff;
+    color: #2c3e50;
+    border: 1px solid #ccd1d1;
+    border-radius: 6px;
+    padding: 6px;
+    selection-background-color: #3498db;
+    selection-color: white;
+}
+
+/* Focus effect */
+QLineEdit:focus, QTextEdit:focus, QComboBox:focus, QDateEdit:focus {
+    border: 1px solid #3498db;
+}
+
+/* Combo dropdown */
+QComboBox QAbstractItemView {
+    background-color: white;
+    color: #2c3e50;
+    selection-background-color: #3498db;
+    selection-color: white;
+}
+
+/* Text area */
+QTextEdit {
+    min-height: 90px;
+}
+
+/* =========================
+   FORM SPACING
+========================= */
+QFormLayout {
+    spacing: 12px;
+}
+
+/* =========================
+   BUTTON VARIANT
+========================= */
+
+/* Tambah (Hijau) */
+QPushButton#btnTambah {
+    background-color: #0fc95d;
+}
+
+QPushButton#btnTambah:hover {
+    background-color: #0fc95d;
+}
+
+/* Edit (Kuning) */
+QPushButton#btnEdit {
+    background-color: #ffcc00;
+    color: black;
+}
+
+QPushButton#btnEdit:hover {
+    background-color: #ffcc00;
+}
+
+/* Hapus (Merah) */
+QPushButton#btnHapus {
+    background-color: #db2815;
+}
+
+QPushButton#btnHapus:hover {
+    background-color: #db2815;
+}
+
+/* Spacing tombol */
+QPushButton {
+    margin-top: 5px;
+}
+
+/* Table clean */
+QTableWidget {
+    border-radius: 8px;
+    padding: 4px;
+}
+
+/* Header Rapi */
+QHeaderView::section {
+    height: 30px;
+}
