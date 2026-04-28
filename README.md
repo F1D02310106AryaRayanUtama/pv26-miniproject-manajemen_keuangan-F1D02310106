@@ -1,3 +1,8 @@
+# Nama : Arya Rayan Utama  
+# NIM  : F1D02310106  
+# Kelas : Pemvis C
+---
+
 # Aplikasi Manajemen Keuangan Sederhana
 
 ## Deskripsi
@@ -112,12 +117,6 @@ Tambahkan screenshot tampilan aplikasi di sini (opsional namun disarankan)
 ### Tampilan Warning saat ingin Edit atau Hapus data tanpa memilih data terlebih dahulu
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/69f713f4-de16-495e-91ea-f74356ba61d0" />
 
-
----
-
-## Identitas Mahasiswa
-Nama : Arya Rayan Utama  
-NIM  : F1D02310106  
 
 ---
 
