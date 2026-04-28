@@ -121,5 +121,5 @@ Tambahkan screenshot tampilan aplikasi di sini (opsional namun disarankan)
 ---
 
 ## Link
-GitHub Repository :  
-Video YouTube     : [ISI LINK VIDEO]
+GitHub Repository : https://github.com/F1D02310106AryaRayanUtama/pv26-miniproject-manajemen_keuangan-F1D02310106.git
+Video YouTube     : https://youtu.be/s1NB7btSykA
