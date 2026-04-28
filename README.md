@@ -86,14 +86,29 @@ Tabel: `transaksi`
 Tambahkan screenshot tampilan aplikasi di sini (opsional namun disarankan)
 ### Tampilan awal saat aplikasi dijalankan 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/609b5d56-1ff0-4891-a407-eb0d4a81a692" />
+
+---
+
 ### Tampilan fitur Tambah Transaksi
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ccf62c10-a1a7-4c8d-a719-ccbbbf67abed" />
+
+---
+
 ### Tampilan fitur Edit Transaksi
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/323a3c0b-4886-4c2e-ac3e-4b6d5a17db45" />
+
+---
+
 ### Tampilan fitur Hapus Transaksi serta Peringatan Konfirmasi
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d2690ba8-975e-4b20-beef-bf2140dab9b4" />
+
+---
+
 ### Tampilan Fitur Help Tentang Aplikasi
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a8432ce5-1476-4368-9241-92451f80a9f5" />
+
+---
+
 ### Tampilan Warning saat ingin Edit atau Hapus data tanpa memilih data terlebih dahulu
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/69f713f4-de16-495e-91ea-f74356ba61d0" />
 
